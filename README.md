@@ -12,6 +12,6 @@
 
 
 
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=IsudipSubedi&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=IsudipSubedi&theme=dark" style="height: 150px; width: 100%;" />
+</a>
